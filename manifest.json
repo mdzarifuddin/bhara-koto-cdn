@@ -18,5 +18,15 @@
    "https://cdn.jsdelivr.net/gh/mdzarifuddin/bhara-koto-cdn@dhk_metro-v1-34036b4/dhk_metro.bin",
    "https://raw.githubusercontent.com/mdzarifuddin/bhara-koto-cdn/dhk_metro-v1-34036b4/dhk_metro.bin"
   ]
+ },
+ "dhk_intercity": {
+  "type": "intercity",
+  "v": 1,
+  "key": "k2026_09",
+  "min_app_build": 1,
+  "urls": [
+   "https://cdn.jsdelivr.net/gh/mdzarifuddin/bhara-koto-cdn@dhk_intercity-v1-34036b4/dhk_intercity.bin",
+   "https://raw.githubusercontent.com/mdzarifuddin/bhara-koto-cdn/dhk_intercity-v1-34036b4/dhk_intercity.bin"
+  ]
  }
 }
